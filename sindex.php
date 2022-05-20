@@ -6,7 +6,6 @@
         <title>Initial Boiler plate</title>
         <link rel="stylesheet" href="style.css">
     </head>
-<<<<<<< HEAD
     <body>
         <div id="wrapper">
             <h2>Primary Header</h2>
@@ -15,6 +14,4 @@
             <footer>Copyright 2022</footer>
         </div>
     </body>
-=======
->>>>>>> parent of 46e25b8 (Added Primary Header and Paragraph)
 </html>
