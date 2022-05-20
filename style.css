@@ -4,3 +4,9 @@
 *, *::before, *::after {
     box-sizing: inherit;
 }
+body {
+    margin: 0px;
+    padding: 0px;
+    font: 100%/1.3 sans-serif;
+    overflow: auto;
+}
