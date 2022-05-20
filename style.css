@@ -10,3 +10,10 @@ body {
     font: 100%/1.3 sans-serif;
     overflow: auto;
 }
+#wrapper {
+    width: 1020px;
+    max-width: 90%;
+    background: linear-gradient(30deg, black white);
+    background-size: cover;
+    color: #FF0;
+}
