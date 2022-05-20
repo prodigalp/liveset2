@@ -11,6 +11,7 @@
             <h2>Primary Header</h2>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis quisquam soluta quasi voluptas suscipit minus quam at, ipsam ad dolorum rerum debitis perspiciatis dolore cum corrupti necessitatibus velit quis asperiores.
             Eum tenetur similique excepturi quis incidunt. Accusantium tempora consectetur excepturi sequi incidunt? Modi perspiciatis deserunt amet corporis nobis facilis ullam commodi veritatis dolores, iusto doloribus molestias est esse, eos reprehenderit.</p>
+<<<<<<< HEAD
             <footer>Copyright 2022</footer>
             <div class="triColumn">
                 <div class="colOne">
@@ -26,6 +27,8 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error inventore dolorum, atque ad harum iste similique debitis delectus corporis praesentium, doloribus, autem incidunt accusantium quo vitae quaerat. Sequi, eligendi commodi!</p>
                 </div>
             </div>
+=======
+>>>>>>> parent of 899790e (Added primary footer)
         </div>
     </body>
 </html>
