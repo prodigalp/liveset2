@@ -45,6 +45,10 @@
                 <h2>Fourth Column</h2>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis ut facilis, exercitationem quis eligendi aut a pariatur voluptate quo tenetur ad mollitia, quae saepe dicta illum voluptates? Alias, dolores. Nesciunt!</p>
             </div>
+            <div class="colFive">
+                <h2>Fifth Column</h2>
+                <p>Pang lima baw Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere laborum obcaecati, vitae in assumenda iusto. Est dolorem repellendus dolorum cum sequi consectetur, temporibus dolor modi beatae quia similique debitis maiores!</p>
+            </div>
         </div>
     </body>
 </html>
