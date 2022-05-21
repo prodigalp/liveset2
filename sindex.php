@@ -26,6 +26,16 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error inventore dolorum, atque ad harum iste similique debitis delectus corporis praesentium, doloribus, autem incidunt accusantium quo vitae quaerat. Sequi, eligendi commodi!</p>
                 </div>
             </div>
+            <div class="doubleCol">
+                <div class="colFirst">
+                    <h2>First Column</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, voluptatibus non nostrum dolorem vitae id aspernatur aut dolor autem earum sunt quae magni sequi at. Reiciendis quia corporis inventore alias?</p>
+                </div>
+                <div class="colSecond">
+                    <h2>Second Column</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores aperiam ea, ipsum nobis nostrum quidem nesciunt unde. Rem, fuga inventore repellendus placeat laudantium nesciunt tenetur quas ea nostrum minus molestiae.</p>
+                </div>
+            </div>
         </div>
     </body>
 </html>
