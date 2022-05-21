@@ -12,7 +12,6 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis quisquam soluta quasi voluptas suscipit minus quam at, ipsam ad dolorum rerum debitis perspiciatis dolore cum corrupti necessitatibus velit quis asperiores.
             Eum tenetur similique excepturi quis incidunt. Accusantium tempora consectetur excepturi sequi incidunt? Modi perspiciatis deserunt amet corporis nobis facilis ullam commodi veritatis dolores, iusto doloribus molestias est esse, eos reprehenderit.</p>
             <footer>Copyright 2022</footer>
-<<<<<<< HEAD
             <div class="triColumn">
                 <div class="colOne">
                     <h2>Column One</h2>
@@ -37,8 +36,11 @@
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores aperiam ea, ipsum nobis nostrum quidem nesciunt unde. Rem, fuga inventore repellendus placeat laudantium nesciunt tenetur quas ea nostrum minus molestiae.</p>
                 </div>
             </div>
-=======
->>>>>>> parent of 5b56155 (Added Three COlumns)
+            <div class="colSingle">
+                <h2>Single Column1
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat facere maxime ut similique, deserunt in temporibus aperiam vel. Mollitia excepturi enim voluptates? Ipsum suscipit, deserunt beatae consectetur eveniet libero rerum?</p>
+                </h2>
+            </div>
         </div>
     </body>
 </html>
