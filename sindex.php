@@ -41,6 +41,10 @@
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat facere maxime ut similique, deserunt in temporibus aperiam vel. Mollitia excepturi enim voluptates? Ipsum suscipit, deserunt beatae consectetur eveniet libero rerum?</p>
                 </h2>
             </div>
+            <div class="colFourth">
+                <h2>Fourth Column</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis ut facilis, exercitationem quis eligendi aut a pariatur voluptate quo tenetur ad mollitia, quae saepe dicta illum voluptates? Alias, dolores. Nesciunt!</p>
+            </div>
         </div>
     </body>
 </html>
