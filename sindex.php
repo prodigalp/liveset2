@@ -8,6 +8,7 @@
     </head>
     <body>
         <div id="wrapper">
+            <h1>Bigger and bolder</h1>
             <h6>ESTE</h6>
             <h5>Sa ibabaw na</h5>
             <h1>Testing Lang Ulet One:Thirty: NA</h1>
